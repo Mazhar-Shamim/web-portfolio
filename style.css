@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 5%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.color-deeppink{
+    color: deeppink;
+}
+.color-orange{
+    color: orangered;
+}
+.header-bg{
+    
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+section{
+    height: 800px;
+}
+.click-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, deeppink,tomato);
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-weight: 700;
+    color: white;}
+.biography{
+    
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.center{
+    text-align: center;
+}
+.one-third{
+    width: 30%;
+    float: left;
+    padding-left: 3%;
+    
+    
+}
+.one-third img{
+    width: 100%;
+}
+.latest-work{
+    
+    margin-top: 10%;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+   
+}
+
+footer{
+    text-align: center;
+    font-size: 13px;
+    color:black;
+}
+.last-part{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+   
+}
+.coloring{
+    width: 500px;
+    height: 135px;
+    background-image: linear-gradient(45deg, deeppink, tomato);
+    padding-top:20px;
+    margin: auto;
+    border-radius: 7px;
+    color: white;
+    
+    
+}
+.big{
+    font-size: 20px;
+}
+.little{
+    color:gray;
+}
